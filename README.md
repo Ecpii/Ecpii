@@ -1,4 +1,4 @@
-## Hi there 👋
+check out [https://waning.dev](waning.dev)!
 
 <!--
 **Ecpii/Ecpii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
